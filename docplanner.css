@@ -1,0 +1,12 @@
+.header-logo{
+    max-width: 268px;
+    max-height: 33px;
+    border: 1px;
+    display: block;
+
+}
+
+.para{
+    width: 50%;
+    display: inline;
+}
