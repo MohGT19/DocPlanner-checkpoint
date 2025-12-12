@@ -91,3 +91,10 @@ body{
     border-radius: 10px;
     margin-bottom: 15px;
   }
+
+  footer{
+    padding: 6px;
+    text-align: center;
+    height: auto;
+    width: 100%;
+  }
